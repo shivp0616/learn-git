@@ -1,2 +1,3 @@
 this is file 1
 this is another update but from branch 1
+this is a new line written in branch-2
